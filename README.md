@@ -3,6 +3,9 @@
 **Autores**:
 Sebastián Franco Franco - Alba Julieth Giraldo Martínez
 
+**Fuente de los datos**:
+https://medata.gov.co/search/?fulltext=hurto&theme=Seguridad%20y%20Defensa
+
 # Análisis de agrupación de distintos tipos de hurtos en la ciudad de Medellín 
 
 Este repositorio contiene los notebooks de Jupyter para realizacion de un análisis y clusterizacion de datos utilizando Python. A continuación, se describe el paso a paso de la implementación y cómo ejecutar el script.
