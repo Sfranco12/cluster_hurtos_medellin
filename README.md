@@ -1,4 +1,8 @@
-# Monografia Especializacion Ciencia de Datos
+# Monografia Especializacion Ciencia de Datos - Universidad de Antioquia
+
+**Autores**:
+Sebastián Franco Franco 
+Alba Julieth Giraldo Martínez
 
 # Análisis de agrupación de distintos tipos de hurtos en la ciudad de Medellín 
 
